@@ -1,0 +1,12 @@
+{
+    "name": "lol-spell-timer",
+    "version": "0.1.0",
+    "main": "main.js",
+    "author": "berkspar",
+    "scripts": {
+        "start": "electron --enable-transparent-visuals --disable-gpu main.js"
+    },
+    "devDependencies": {
+        "electron-prebuilt": "^1.4.13"
+    }
+}
